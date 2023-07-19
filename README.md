@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning frontend
 - 📫 How to reach me dm instagram barbeetazara :))
 
-Skills :
+<h2> Skills : </h2>
 - Odoo Developer (Python, XML, Javascript, PostgreSQL)
 - Python
 - Javascript (jQuery)
@@ -14,3 +14,5 @@ Skills :
 - PostgreSQL
 - MySQL
 
+<h2> Experience : </h2>
+- <b> INTERNSHIP at PT Wibicon Karya Indonesia</b>
